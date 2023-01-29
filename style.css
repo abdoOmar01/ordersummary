@@ -121,7 +121,7 @@ body {
     cursor: pointer;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     body {
         background-image: url('./images/pattern-background-mobile.svg');
     }
